@@ -23,5 +23,5 @@
 - ESP8266HTTPClient.cpp
 - ESP8266HTTPClient2.h
 
-作業放在github 只是目前權限僅私人
+作業的code放在github:
 https://github.com/brianchennn/IoTtalk_final_project/edit/master
